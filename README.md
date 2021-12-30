@@ -24,4 +24,4 @@
 
 <img src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" width="16" height="16" /> &nbsp;Axios
 
-<img src="https://i.imgur.com/3mDG16S.gif" width="500" height="500">
+<img src="https://i.imgur.com/3mDG16S.gif" width="1000" height="500">
